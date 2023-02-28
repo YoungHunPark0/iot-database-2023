@@ -30,10 +30,19 @@ IoT 개발자과정 데이터베이스 - MySQL
     - 한글쓸때는 nvarchar  
 - 백업
     - C드라이브 -> DB_Backup 폴더 생성 -> MySQL - admin - export -> 폴더경로 변경 -> include 체크 -> start -->
+<!-- - PK, FK는 데이터 형식, 사이즈가 일치해야됨 -->
 
- # 1일차
- 1. MySQL 학습
+
+# 1일차
+1. MySQL 학습
     - 데이터베이스 개요
     - MySQL 설치/설정
     - Sample DB 설치
     - WorkBench 사용법
+
+# 2일차
+1. MySQL 학습
+    - DB모델링
+    - MySQL 유틸리티
+    - SQL 기본
+    
