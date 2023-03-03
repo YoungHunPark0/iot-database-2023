@@ -31,7 +31,7 @@ IoT 개발자과정 데이터베이스 - MySQL
 - 백업
     - C드라이브 -> DB_Backup 폴더 생성 -> MySQL - admin - export -> 폴더경로 변경 -> include 체크 -> start -->
 <!-- - PK, FK는 데이터 형식, 사이즈가 일치해야됨 -->
-
+<!-- - 한줄 지우기 ctrl+L // 파이선은 ctrl+delete -->
 
 # 1일차
 1. MySQL 학습
@@ -48,5 +48,18 @@ IoT 개발자과정 데이터베이스 - MySQL
 
 # 3일차
 1. MySQL 학습
-    - SQL 기본
+    - SQL 기본 CRUD
+        - INSERT
+        - SELECT
+        - UPDATE
+        - DELETE
     - SQL 고급
+        - 데이터 형식
+        - 내장함수
+        - JOIN
+
+# 4일차
+1. MySQL 학습
+    - SQL 고급
+        - JOIN
+       
