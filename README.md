@@ -3,8 +3,8 @@ IoT 개발자과정 데이터베이스 - MySQL
 
 ![MySQL](https://raw.githubusercontent.com/YoungHunPark0/iot-database-2023/main/Images/MySQL.png)
 
-# MySQL 교재
- - https://drive.google.com/drive/folders/1QTtcohU83WR7WuTGt40YvrQsBukq77qY
+<!-- # MySQL 교재
+ - https://drive.google.com/drive/folders/1QTtcohU83WR7WuTGt40YvrQsBukq77qY -->
 
 <!-- # MySQL 설치방법
  - MySQL Community (GPL) Downloads
